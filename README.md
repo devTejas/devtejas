@@ -23,7 +23,6 @@ I code for FUN in many languages like
 
 ### Wanna Connect👇
 
-
 - [<img align="left" alt="devTejas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 
@@ -39,4 +38,4 @@ I code for FUN in many languages like
 
 ---
 
-[linkedin]: https://www.linkedin.com/devtejas
+[linkedin]: https://www.linkedin.com/in/devtejas
