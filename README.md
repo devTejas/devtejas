@@ -31,11 +31,6 @@ I code for FUN in many languages like
 - Need help for making contributions.
 - The anonymous contributor.
 
-## Some Facts - 
-- Found me nowhere, Cool! I'm a PRIVACY-CENTERED GUY and I try to be anonymous for the most.
-- Loves to give back to the community!
-- Need any resource, ask me !
-
 ---
 
 [linkedin]: https://www.linkedin.com/in/devtejas
